@@ -19,4 +19,5 @@ Optimizer SGD
 
 
 Score: 0.97125
+
 Submission: https://www.kaggle.com/nicolassilveira/mnist-classifier-p1-cnn
